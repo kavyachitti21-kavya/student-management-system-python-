@@ -110,6 +110,5 @@ This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 
-**Your Name**
+
 kavya
-GitHub: https://github.com/your-username
